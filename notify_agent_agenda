@@ -1,5 +1,5 @@
 blueprint:
-  name: Marnus - Conversation agent agenda notification
+  name: Marnus Conversation agent agenda notification
   source_url: https://github.com/marnusv/blueprints/edit/main/notify_agent_agenda
   description:
     "# Fixed Original Conversation Agent Agenda Notification\n**Version: 1.1**\n\n
